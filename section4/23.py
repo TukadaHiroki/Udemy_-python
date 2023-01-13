@@ -1,3 +1,4 @@
+#タプルの使い方
 chose_from_two = ('A', 'B', 'C')
 answer = []
 answer.append('A')
