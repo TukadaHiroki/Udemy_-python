@@ -1,4 +1,4 @@
-a = "test"
+a = "test_test"
 b = a
 c = b
 print(c)
